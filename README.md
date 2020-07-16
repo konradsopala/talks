@@ -4,6 +4,8 @@
 
 <a href="https://github.com/konradsopala/talks/tree/master/Talks"><img src="https://img.shields.io/badge/Presentation-Talks-blueviolet" alt=""/></a>     <a href="https://github.com/konradsopala/github-linkedin/tree/master/Presentations"><img src="https://img.shields.io/badge/Lightning-Talks-blueviolet" alt=""/></a>   <a href="https://github.com/konradsopala/github-linkedin"><img src="https://img.shields.io/badge/Public-Speaking-blueviolet" alt=""/></a>
 
+## Talks List 💡
+
 Here's the entire list of talks, presentations and lightning talks I have given internally at companies I have worked for as well as externally out of them:
 
 * [Developer Community Dilemma](https://github.com/konradsopala/talks/blob/master/Talks/DeveloperCommunityDilemma.pdf) 🇺🇸<br>
