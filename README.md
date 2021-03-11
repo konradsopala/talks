@@ -8,6 +8,7 @@
 
 Here's the entire list of talks, presentations and lightning talks I have given internally at companies I have worked for as well as externally out of them:
 
+* [Pimp Your GitHub Profile](https://github.com/konradsopala/talks/blob/master/Talks/PimpYourGitHubProfile.pdf) 🇺🇸<br>
 * [Developer Community Dilemma](https://github.com/konradsopala/talks/blob/master/Talks/DeveloperCommunityDilemma.pdf) 🇺🇸<br>
 * [Engaging with Developer Community](https://github.com/konradsopala/talks/blob/master/Talks/EngagingWithDeveloperCommunity.pdf) 🇺🇸<br>
 * [How to run an effective student IT organisation](https://github.com/konradsopala/talks/blob/master/Talks/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
