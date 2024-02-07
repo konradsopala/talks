@@ -6,7 +6,7 @@
 
 ## Talks List 💡
 
-Here's the entire list of talks, presentations and lightning talks I have given internally at companies I have worked for as well as externally out of them:
+Here's the entire list of talks, presentations and lightning I have given:
 
 * [First Time Manager Tips](https://github.com/konradsopala/talks/blob/master/Talks/FirstTimeManager.pdf) 🇺🇸<br>
 * [Take care of your organisation GitHub space](https://github.com/konradsopala/talks/blob/master/Talks/CompanyGitHubSpace.pdf) 🇺🇸<br>
